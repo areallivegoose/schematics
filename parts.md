@@ -1,18 +1,18 @@
-Resistors
+## Resistors
 
-h2. Capacitors
-h3. WIMA
+## Capacitors
+### WIMA
 
-h3. Film
+### Film
 [  ] 100 nF
 
-h3. Electrolytic
+### Electrolytic
 [  ] 1 uF
 [  ] 10 uF
 [  ] 47 uF
 [  ] 100 uF
 
-h2. Transistors
+## Transistors
 | N/P | Part No | #   |
 |:---:|---------|----:|
 |N    | 2n5088 | 1 |
@@ -33,7 +33,7 @@ h2. Transistors
 |P    | 2n4403 | 10 |
 |P    | BC560 | 10 |
 
-h2. Semiconductors
+## Semiconductors
 | Part No | #  |
 |---------|---:|
 | TL022 | 5 |
@@ -41,4 +41,4 @@ h2. Semiconductors
 | LM741 | 4 |
 | 555 | 6 |
 
-Diodes
+## Diodes
