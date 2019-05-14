@@ -69,15 +69,15 @@ Diodes
 [ ] D2 1N914
 [ ] D3 1N914
 [ ] D4 1N914
-[ ] D5 BAT46
-[ ] D6 BAT46
+[x] D5 BAT46
+[x] D6 BAT46
 [ ] D8 1N914
 [ ] D9 1N914
 
 Semiconductors
-[ ] Q1 2N5457 ???? x
+[x] Q1 2N5457 ???? x
 [x] Q2 2N5088
-[ ] Q3 2N5087
+[x] Q3 2N5087
 [x] Q4 2N5088
 [x] IC1 JRC4558D
 [x] IC2 JRC4558D
