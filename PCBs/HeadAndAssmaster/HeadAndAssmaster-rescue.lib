@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# StompLFO-Electric_Druid
+#
+DEF StompLFO-Electric_Druid U 0 40 Y Y 1 F N
+F0 "U" 600 0 60 V V C CNN
+F1 "StompLFO-Electric_Druid" 500 0 60 V V C CNN
+F2 "" 200 0 60 H I C CNN
+F3 "" 200 0 60 H I C CNN
+DRAW
+A -400 0 112 634 -634 0 1 0 N -350 100 -350 -100
+S -350 250 450 -250 0 1 0 N
+X +5V 1 -200 -450 200 U 50 30 1 1 I
+X Offset_CV 2 0 -450 200 U 50 30 1 1 I
+X Magic_(Wave_out) 3 200 -450 200 U 50 30 1 1 I
+X Tap_Tempo_In 4 400 -450 200 U 50 30 1 1 I
+X Depth_CV 5 300 450 200 D 50 30 1 1 I
+X Waveform_CV 6 100 450 200 D 50 30 1 1 I
+X Freq_CV 7 -100 450 200 D 50 30 1 1 I
+X GND 8 -300 450 200 D 50 30 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

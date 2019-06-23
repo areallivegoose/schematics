@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name HeadAndAssmaster-rescue)(type Legacy)(uri ${KIPRJMOD}/HeadAndAssmaster-rescue.lib)(options "")(descr ""))
+)
