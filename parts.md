@@ -2,15 +2,20 @@
 
 ## Capacitors
 ### WIMA
+| Part No | # |
+|------|---:|
 
 ### Film
-[  ] 100 nF
+| Part No | # |
+|------|---:|
 
 ### Electrolytic
-[  ] 1 uF
-[  ] 10 uF
-[  ] 47 uF
-[  ] 100 uF
+| Part No | # |
+|------|---:|
+| 1 uF | |
+| 10 uF | |
+| 47 uF | |
+| 100 uF | |
 
 ## Transistors
 | N/P | Part No | #   |
@@ -34,8 +39,8 @@
 |P    | BC560 | 10 |
 
 ## Semiconductors
-| Part No | #  |
-|---------|---:|
+| Part No | #  | Description |
+|---------|---:| ------------------- |
 | TL022 | 5 | Opamp |
 | TL072 | 3 | Opamp |
 | LM741 | 4 | Opamp |
