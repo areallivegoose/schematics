@@ -54,5 +54,8 @@
 | L411 | 1 | JFET Opamp |
 | CA313 | 1 | MOSTFET Opamp |
 | TLV3702 | 3 | Push-Pull output comparator | 
+| MAX1044 | 5 | Charge Pump |
+| LM7805 | 5 | 5V regulator | 
+| LM13700 | 5 | Transconductance Amplifier (VCA) | 
 
 ## Diodes
