@@ -1,0 +1,12 @@
+The pot on the op amp ended up as a 10k resistor I think, and the feedback resistor ended up as a 270k I think
+Two of those op amp stages in series, then a big muff tone control and an LPB
+Oh also R6 should be a 25 or 50k pot
+
+so loosely, its : a modified darlington, a jfet booster, an op amp stage, (then another op amp?) then a BMP tone stack, into an LPB?
+(op amp #2, tone, and LPB not pictured?)
+
+Pretty much, the darlington stage is a tweaked dam meathead
+The op amp stages were supposed to be a 2 stage all pass filter but they stopped working when soldered, they caused a huge volume drop but gave the distortion a weird character
+Think it was a pair of 741s, couldn't get it to bias right with anything else
+
+The original all pass design would've had a 10k as the feedback resistor on each, and the pot going to ground would be a 10k dual gang pot iirc
