@@ -8,14 +8,15 @@
 ### Film
 | Part No | # |
 |------|---:|
+| 100n | 100 |
 
 ### Electrolytic
 | Part No | # |
 |------|---:|
-| 1 uF | |
-| 10 uF | |
-| 47 uF | |
-| 100 uF | |
+| 1 uF | 100 |
+| 10 uF | 50 |
+| 47 uF | 50 |
+| 100 uF | 100 |
 
 ## Transistors
 | N/P | Part No | #   |
