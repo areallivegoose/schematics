@@ -1,0 +1,51 @@
+Resistors
+R1: 120k
+R2: 31k
+R3: 470k
+R4: 1k
+R5: 1M
+R6: 3k2
+R7: 4k7
+R8: 10k
+R9: 10k
+R10: 10k
+R11: 10k
+R12: 430k
+R13: 4k3
+R14: 10k
+R15: 330
+
+Capacitors
+C10: 8u1
+C11: 0.1u
+C12: 0.1u
+C13: 100u
+C1: 10n
+C2: 560p
+C3: 560p
+C4: 47u
+C5: 22n
+C6: 100u
+C7: 10n
+C8: 8u1
+C9: 10n
+
+Potentiometers
+Gain: 125kB
+Frequency: Dual 10kB
+Output: 100 kA
+
+Transistors
+Q1: BC104
+Q2: BC104
+Q3: 2n5458
+Q4: 2n5088
+
+Semiconductors
+U1: LM741
+U2: LM741
+
+Diodes
+D1: 1N4002 (Power protection)
+LED1: LED
+
